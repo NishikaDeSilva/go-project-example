@@ -17,7 +17,6 @@ issues:
 linters:
   disable-all: true
   enable:
-    - goconst
     - gosec
 #     - golint
 #     - gosec
